@@ -1,0 +1,16 @@
+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
+git push https://github.com/gwenneth18/game.git master
+git add .
+git commit -m "whatever changes"
+git push
+
+how to login
+ssh 2102091@mi-linux.wlv.ac.uk
+password
+ls
+cd public_html/
+~/public_html$ cd php
+~/public_html/php$ ls -la
+
+
+https://github.com/gwenneth18/game
